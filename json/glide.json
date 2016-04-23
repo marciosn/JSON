@@ -214,5 +214,14 @@
 "large": "http://api.androidhive.info/images/glide/large/xmen.jpg"
 },
 "timestamp": "May 27, 2016"
+},
+{
+"name": "Gifs: Teste",
+"url": {
+"small": "http://ostentation.com.br/wp-content/uploads/2016/02/greatest-superhero-gif-ever.gif",
+"medium": "http://ostentation.com.br/wp-content/uploads/2016/02/greatest-superhero-gif-ever.gif",
+"large": "http://ostentation.com.br/wp-content/uploads/2016/02/greatest-superhero-gif-ever.gif"
+},
+"timestamp": "May 27, 2016"
 }
 ]
