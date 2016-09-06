@@ -1,0 +1,610 @@
+[{
+  "id": 1,
+  "nome" : "simulado 1",
+  "simulado":[{
+    "questao" : 1,
+    "pergunta" : "A velocidade máxima em uma via urbana de trânsito rápido onde não houver sinalização regulamentadora é:",
+    "opcoes" : [
+      {"a" : "110 km/h",
+        "b" : "30 km/h",
+        "c" : "90 km/h",
+        "d" : "80 km/h"
+      }]
+  }
+  ,{
+      "questao" : 2,
+      "pergunta" : "Os motores a vapor, a gás, a óleo e a ar quente são chamados de:",
+      "opcoes" : [
+        {"a" : "internos",
+          "b" : "elétricos",
+          "c" : "hidráulicos",
+          "d" : "térmicos"
+        }]
+    }
+  ,{
+      "questao" : 3,
+      "pergunta" : "Você acabou de almoçar e está com muito sono. Para chegar ao seu destino, há um longo caminho a percorrer. Nesta situação é aconselhável:",
+      "opcoes" : [
+        {"a" : "ter pleno conhecimento do seu veículo",
+          "b" : "seguir viagem ouvindo uma boa música",
+          "c" : "permanecer no local do almoço até se sentir em condições para prosseguir",
+          "d" : "seguir viagem após tomar um café bem forte"
+        }]
+    }
+  ,{
+      "questao" : 4,
+      "pergunta" : "Enquanto se aguarda socorro especializado para atender a vítima que apresenta queimaduras, o procedimento adequado consiste em aplicar:",
+      "opcoes" : [
+        {"a" : "compressas de água fria com pano limpo",
+          "b" : "pomada curativa e anestésica",
+          "c" : "algodão embebido em óleo mineral",
+          "d" : "algodão embebido em álcool"
+        }]
+    }
+  ,{
+      "questao" : 5,
+      "pergunta" : "A válvula de escape é responsável por controlar:",
+      "opcoes" : [
+        {"a" : "o resfriamento da água quente no radiador",
+          "b" : "a saída de gases resultantes da queima de combustível",
+          "c" : "a saída do ruído emitido pelo motor",
+          "d" : "a entrada de combustível no tanque"
+        }]
+    }
+  ,{
+      "questao" : 6,
+      "pergunta" : "Nenhum condutor deve frear bruscamente seu veículo exceto:",
+      "opcoes" : [
+        {"a" : "por razões de segurança",
+          "b" : "quando estiver transportando carga",
+          "c" : "quando acender a luz do semáforo",
+          "d" : "diante de faixas de pedestres"
+        }]
+    }
+  ,{
+      "questao" : 7,
+      "pergunta" : "Um motoqueiro apresenta ferimentos na região do peito após sofrer uma queda acidental na sua moto. Uma providência a ser tomada enquanto se aguarda o socorro é:",
+      "opcoes" : [
+        {"a" : "comprimir o ferimento com pano limpo, utilizando luvas de proteção",
+          "b" : "avaliar danos, movimentando os braços e as pernas da vítima",
+          "c" : "retirar o capacete para melhorar a respiração da vítima",
+          "d" : "limpar o ferimento com antisséptico em pó"
+        }]
+    }
+  ,{
+      "questao" : 8,
+      "pergunta" : "Dentre os documentos de porte obrigatório do condutor do veículo podemos citar:",
+      "opcoes" : [
+        {"a" : "Certificado de Registro e Licenciamento Anual (CRLV) e Carteira Nacional de Habilitação (CNH)",
+          "b" : "Seguro Obrigatório de Danos Pessoais e Carteira Nacional de Habilitação (CNH)",
+          "c" : "Imposto sobre propriedade de Veículos Automotores (IPVA) e Carteira de Trabalho",
+          "d" : "Imposto sobre propriedade de Veículos Automotores (IPVA) e Carteira de Identidade"
+        }]
+    }
+  ,{
+      "questao" : 9,
+      "pergunta" : "O condutor deve ficar atento aos sinais do veículo da frente, como luz de freio e indicador de direção (ou seta), pois eles refletem:",
+      "opcoes" : [
+        {"a" : "o que o motorista pretende fazer",
+          "b" : "a habilidade do motorista",
+          "c" : "o itinerário que o motorista vai seguir",
+          "d" : "a serenidade do motorista"
+        }]
+    }
+  ,{
+      "questao" : 10,
+      "pergunta" : "A distância percorrida desde o momento em que o condutor percebe o perigo e executa a ação correspondente chama-se:",
+      "opcoes" : [
+        {"a" : "percepção e reação",
+          "b" : "frenagem",
+          "c" : "total de parada",
+          "d" : "seguimento"
+        }]
+    }
+  ,{
+      "questao" : 11,
+      "pergunta" : "Antes de iniciar um percurso conduzindo um veículo automotor devemos nos informar sobre as condições das vias que vamos usar, com o objetivo de:",
+      "opcoes" : [
+        {"a" : "evitar os radares",
+          "b" : "planejar melhor o itinerário evitando condições adversas",
+          "c" : "não cometer infrações",
+          "d" : "não ficar parado por falta de combustível"
+        }]
+    }
+  ,{
+      "questao" : 12,
+      "pergunta" : "De acordo com a imagem ao lado, o gesto do guarda significa:",
+      "opcoes" : [
+        {"a" : "ordem de redução da velocidade para os veículos que trafegam na direção ortogonal dos braços estendidos",
+          "b" : "ordem de parada para todos os veículos que trafegam na direção ortogonal dos braços estendidos",
+          "c" : "mudança de pista dos veículos que trafegam na via para a direção ortogonal dos braços estendidos",
+          "d" : "preferência de passagem para os veículos que trafegam na direção ortogonal dos braços estendidos"
+        }]
+    }
+  ,{
+      "questao" : 13,
+      "pergunta" : "A Direção Defensiva utiliza um conjunto de conceitos que visam a melhoria do modo como os motoristas dirigem. Assim, podemos considerar que a Direção Defensiva:",
+      "opcoes" : [
+        {"a" : "ensina ao motorista como ter atenção somente com seu veículo",
+          "b" : "propõe ao motorista que sua única preocupação deve ser o modo como os outros dirigem",
+          "c" : "contribui para que os motoristas tentem reconhecer, com antecedência, as situações de perigo",
+          "d" : "explica que, para evitar acidentes, basta tomar cuidado com os pedestres"
+        }]
+    }
+  ,{
+      "questao" : 14,
+      "pergunta" : "A apreensão da Carteira Nacional de Habilitação (CNH) ocorrerá quando o condutor:",
+      "opcoes" : [
+        {"a" : "estacionar o veículo nas calçadas",
+          "b" : "dirigir sem portar os documentos do veículo",
+          "c" : "dirigir o veículo de categoria ou espécie para a qual não estiver habilitado",
+          "d" : "estacionar o veículo sobre as faixas destinadas aos pedestres"
+        }]
+    }
+  ,{
+      "questao" : 15,
+      "pergunta" : "Nos locais onde houver sinalização semafórica, os pedestres deverão:",
+      "opcoes" : [
+        {"a" : "atravessar em grupo nas estradas",
+          "b" : "obedecer à sinalização",
+          "c" : "transitar com rapidez",
+          "d" : "ceder a preferência aos veículos"
+        }]
+    }
+  ,{
+      "questao" : 16,
+      "pergunta" : "Quando necessária a utilização do extintor de incêndio, o jato deve ser direcionado:",
+      "opcoes" : [
+        {"a" : "para a base das chamas, em movimentos verticais",
+          "b" : "para o topo das chamas, em movimentos verticais",
+          "c" : "para a base das chamas, em movimentos horizontais",
+          "d" : "para o topo das chamas, em movimentos horizontais"
+        }]
+    }
+  ,{
+      "questao" : 17,
+      "pergunta" : "O condutor condenado por delito de trânsito só poderá voltar a dirigir após:",
+      "opcoes" : [
+        {"a" : "submeter-se a novos exames, com aprovação",
+          "b" : "cumprir pena de dois a quatro anos e submeter-se a curso de direção defensiva",
+          "c" : "submeter-se apenas ao exame prático de direção",
+          "d" : "Dsubmeter-se a curso de direção defensiva"
+        }]
+    }
+  ,{
+      "questao" : 18,
+      "pergunta" : "De acordo com o artigo 65 do Código de Trânsito Brasileiro, o uso do cinto de segurança é obrigatório:",
+      "opcoes" : [
+        {"a" : "somente para o motorista e para crianças menores de 10 anos",
+          "b" : "somente para o motorista",
+          "c" : "somente para o motorista e para o passageiro do banco da frente",
+          "d" : "para o motorista e todos os passageiros do banco da frente e de trás"
+        }]
+    }
+  ,{
+      "questao" : 19,
+      "pergunta" : "Ao efetuar curvas em rodovias, o condutor deve:",
+      "opcoes" : [
+        {"a" : "acelerar antes da curva, para aumentar o poder de tração nas rodas",
+          "b" : "reduzir a velocidade antes da curva, acelerando gradativamente",
+          "c" : "mudar de marcha, passando para uma maior, aumentando a tração nas rodas",
+          "d" : "frear durante a curva, para evitar a ação da força centrífuga"
+        }]
+    }
+  ,{
+      "questao" : 20,
+      "pergunta" : "São fatores físicos que determinam como o condutor age no trânsito:",
+      "opcoes" : [
+        {"a" : "fadiga, atenção, audição e tempo",
+          "b" : "chuva, fadiga, audição e veículo",
+          "c" : "atenção, tempo, audição e neblina",
+          "d" : "fadiga, atenção, audição e visão"
+        }]
+    }
+  ,{
+      "questao" : 21,
+      "pergunta" : "Caso ocorra um acidente com vítimas presas nas ferragens do veículo, o serviço de atendimento às emergências indicado é:",
+      "opcoes" : [
+        {"a" : "um Serviço de Resgate Privado caso o acidentado possua convênio médico",
+          "b" : "o Resgate do Corpo de Bombeiros",
+          "c" : "uma ambulância do hospital público mais próximo",
+          "d" : "a Polícia Rodoviária Federal e a Polícia Militar"
+        }]
+    }
+  ,{
+      "questao" : 22,
+      "pergunta" : "Para que o condutor diminua a marcha do veículo, o policial emite, com o apito, o seguinte sinal sonoro:",
+      "opcoes" : [
+        {"a" : "um silvo longo",
+          "b" : "um silvo longo e um breve",
+          "c" : "um silvo breve",
+          "d" : "dois silvos breves"
+        }]
+    }
+  ,{
+      "questao" : 23,
+      "pergunta" : "A ação correta diante de um acidente de trânsito em que a vítima pede água é:",
+      "opcoes" : [
+        {"a" : "mantê-la em jejum até que o médico faça a avaliação",
+          "b" : "oferecer leite ao invés de água",
+          "c" : "dar somente um copo de água",
+          "d" : "dar água em quantidade suficiente para acalmá-la"
+        }]
+    }
+  ,{
+      "questao" : 24,
+      "pergunta" : "Na ocorrência de um acidente, a primeira medida a ser tomada com relação à vítima é:",
+      "opcoes" : [
+        {"a" : "verificar a ocorrência de fraturas abertas e fechadas",
+          "b" : "verificar se sua respiração está normal",
+          "c" : "verificar a ocorrência de hemorragia interna e externa",
+          "d" : "verificar as condições da via para removê-la imediatamente para o hospital"
+        }]
+    }
+  ,{
+      "questao" : 25,
+      "pergunta" : "O condutor que for pego dirigindo sob a influência de álcool será punido com:",
+      "opcoes" : [
+        {"a" : "multa e suspensão do direito de dirigir",
+          "b" : "multa e advertência oral",
+          "c" : "multa somente",
+          "d" : "multa e remoção do veículo"
+        }]
+    }
+  ,{
+      "questao" : 26,
+      "pergunta" : "São sistemas fundamentais do veículo:",
+      "opcoes" : [
+        {"a" : "rodas, pneus, escapamento",
+          "b" : "motor, transmissão, direção, freios",
+          "c" : "amortecedor, cárter, elétrico",
+          "d" : "eixo-motriz, diferencial, painel, suspensão"
+        }]
+    }
+  ,{
+      "questao" : 27,
+      "pergunta" : "O condutor de veículo destinado à condução de escolares deverá satisfazer o seguinte requisito:",
+      "opcoes" : [
+        {"a" : "ser aprovado em curso especializado a nível de segundo grau",
+          "b" : "ter idade mínima de 18 anos",
+          "c" : "ser habilitado na categoria ´C´",
+          "d" : "não ter cometido nenhuma infração grave ou gravíssima"
+        }]
+    }
+  ,{
+      "questao" : 28,
+      "pergunta" : "Os procedimentos de reduzir a velocidade, acender faróis baixos, aumentar a distância de segurança e redobrar a atenção, devem ser tomadas pelo condutor:",
+      "opcoes" : [
+        {"a" : "nas ocasiões de ofuscamento da visão",
+          "b" : "nas ocasiões de chuva e má visibilidade",
+          "c" : "nas ocasiões de aquaplanagem",
+          "d" : "nas ocasiões de trânsito intenso"
+        }]
+    }
+  ,{
+      "questao" : 29,
+      "pergunta" : "Em relação à manutenção preventiva dos pneus, o condutor deve saber que:",
+      "opcoes" : [
+        {"a" : "pneus um pouco murchos gastam menos combustível",
+          "b" : "os pneus devem ser substituídos quando seus sulcos estiverem com menos de 1,6 milímetros de profundidade",
+          "c" : "os pneus devem ser substituídos quando seus sulcos estiverem com mais de 1,6 milímetros de profundidade",
+          "d" : "os pneus com calibragem abaixo da recomendação do fabricante duram mais"
+        }]
+    }
+  ,{
+      "questao" : 30,
+      "pergunta" : "Ao conduzir o veículo em uma rodovia, sob chuva intensa, recomenda-se ao condutor:",
+      "opcoes" : [
+        {"a" : "frear enquanto passa sobre as poças d´água",
+          "b" : "evitar a utilização dos freios sobre poças d´água",
+          "c" : "trafegar pelo acostamento, em velocidade reduzida",
+          "d" : "trafegar sobre a linha divisória da pista, para reduzir o efeito da aquaplanagem"
+        }]
+    }
+  ]
+},
+  {
+    "id": 2,
+    "nome" : "simulado 2",
+    "simulado":[{
+      "questao" : 1,
+      "pergunta" : "A velocidade máxima em uma via urbana de trânsito rápido onde não houver sinalização regulamentadora é:",
+      "opcoes" : [
+        {"a" : "110 km/h",
+          "b" : "30 km/h",
+          "c" : "90 km/h",
+          "d" : "80 km/h"
+        }]
+    }
+    ,{
+        "questao" : 2,
+        "pergunta" : "Os motores a vapor, a gás, a óleo e a ar quente são chamados de:",
+        "opcoes" : [
+          {"a" : "internos",
+            "b" : "elétricos",
+            "c" : "hidráulicos",
+            "d" : "térmicos"
+          }]
+      }
+    ,{
+        "questao" : 3,
+        "pergunta" : "Você acabou de almoçar e está com muito sono. Para chegar ao seu destino, há um longo caminho a percorrer. Nesta situação é aconselhável:",
+        "opcoes" : [
+          {"a" : "ter pleno conhecimento do seu veículo",
+            "b" : "seguir viagem ouvindo uma boa música",
+            "c" : "permanecer no local do almoço até se sentir em condições para prosseguir",
+            "d" : "seguir viagem após tomar um café bem forte"
+          }]
+      }
+    ,{
+        "questao" : 4,
+        "pergunta" : "Enquanto se aguarda socorro especializado para atender a vítima que apresenta queimaduras, o procedimento adequado consiste em aplicar:",
+        "opcoes" : [
+          {"a" : "compressas de água fria com pano limpo",
+            "b" : "pomada curativa e anestésica",
+            "c" : "algodão embebido em óleo mineral",
+            "d" : "algodão embebido em álcool"
+          }]
+      }
+    ,{
+        "questao" : 5,
+        "pergunta" : "A válvula de escape é responsável por controlar:",
+        "opcoes" : [
+          {"a" : "o resfriamento da água quente no radiador",
+            "b" : "a saída de gases resultantes da queima de combustível",
+            "c" : "a saída do ruído emitido pelo motor",
+            "d" : "a entrada de combustível no tanque"
+          }]
+      }
+    ,{
+        "questao" : 6,
+        "pergunta" : "Nenhum condutor deve frear bruscamente seu veículo exceto:",
+        "opcoes" : [
+          {"a" : "por razões de segurança",
+            "b" : "quando estiver transportando carga",
+            "c" : "quando acender a luz do semáforo",
+            "d" : "diante de faixas de pedestres"
+          }]
+      }
+    ,{
+        "questao" : 7,
+        "pergunta" : "Um motoqueiro apresenta ferimentos na região do peito após sofrer uma queda acidental na sua moto. Uma providência a ser tomada enquanto se aguarda o socorro é:",
+        "opcoes" : [
+          {"a" : "comprimir o ferimento com pano limpo, utilizando luvas de proteção",
+            "b" : "avaliar danos, movimentando os braços e as pernas da vítima",
+            "c" : "retirar o capacete para melhorar a respiração da vítima",
+            "d" : "limpar o ferimento com antisséptico em pó"
+          }]
+      }
+    ,{
+        "questao" : 8,
+        "pergunta" : "Dentre os documentos de porte obrigatório do condutor do veículo podemos citar:",
+        "opcoes" : [
+          {"a" : "Certificado de Registro e Licenciamento Anual (CRLV) e Carteira Nacional de Habilitação (CNH)",
+            "b" : "Seguro Obrigatório de Danos Pessoais e Carteira Nacional de Habilitação (CNH)",
+            "c" : "Imposto sobre propriedade de Veículos Automotores (IPVA) e Carteira de Trabalho",
+            "d" : "Imposto sobre propriedade de Veículos Automotores (IPVA) e Carteira de Identidade"
+          }]
+      }
+    ,{
+        "questao" : 9,
+        "pergunta" : "O condutor deve ficar atento aos sinais do veículo da frente, como luz de freio e indicador de direção (ou seta), pois eles refletem:",
+        "opcoes" : [
+          {"a" : "o que o motorista pretende fazer",
+            "b" : "a habilidade do motorista",
+            "c" : "o itinerário que o motorista vai seguir",
+            "d" : "a serenidade do motorista"
+          }]
+      }
+    ,{
+        "questao" : 10,
+        "pergunta" : "A distância percorrida desde o momento em que o condutor percebe o perigo e executa a ação correspondente chama-se:",
+        "opcoes" : [
+          {"a" : "percepção e reação",
+            "b" : "frenagem",
+            "c" : "total de parada",
+            "d" : "seguimento"
+          }]
+      }
+    ,{
+        "questao" : 11,
+        "pergunta" : "Antes de iniciar um percurso conduzindo um veículo automotor devemos nos informar sobre as condições das vias que vamos usar, com o objetivo de:",
+        "opcoes" : [
+          {"a" : "evitar os radares",
+            "b" : "planejar melhor o itinerário evitando condições adversas",
+            "c" : "não cometer infrações",
+            "d" : "não ficar parado por falta de combustível"
+          }]
+      }
+    ,{
+        "questao" : 12,
+        "pergunta" : "De acordo com a imagem ao lado, o gesto do guarda significa:",
+        "opcoes" : [
+          {"a" : "ordem de redução da velocidade para os veículos que trafegam na direção ortogonal dos braços estendidos",
+            "b" : "ordem de parada para todos os veículos que trafegam na direção ortogonal dos braços estendidos",
+            "c" : "mudança de pista dos veículos que trafegam na via para a direção ortogonal dos braços estendidos",
+            "d" : "preferência de passagem para os veículos que trafegam na direção ortogonal dos braços estendidos"
+          }]
+      }
+    ,{
+        "questao" : 13,
+        "pergunta" : "A Direção Defensiva utiliza um conjunto de conceitos que visam a melhoria do modo como os motoristas dirigem. Assim, podemos considerar que a Direção Defensiva:",
+        "opcoes" : [
+          {"a" : "ensina ao motorista como ter atenção somente com seu veículo",
+            "b" : "propõe ao motorista que sua única preocupação deve ser o modo como os outros dirigem",
+            "c" : "contribui para que os motoristas tentem reconhecer, com antecedência, as situações de perigo",
+            "d" : "explica que, para evitar acidentes, basta tomar cuidado com os pedestres"
+          }]
+      }
+    ,{
+        "questao" : 14,
+        "pergunta" : "A apreensão da Carteira Nacional de Habilitação (CNH) ocorrerá quando o condutor:",
+        "opcoes" : [
+          {"a" : "estacionar o veículo nas calçadas",
+            "b" : "dirigir sem portar os documentos do veículo",
+            "c" : "dirigir o veículo de categoria ou espécie para a qual não estiver habilitado",
+            "d" : "estacionar o veículo sobre as faixas destinadas aos pedestres"
+          }]
+      }
+    ,{
+        "questao" : 15,
+        "pergunta" : "Nos locais onde houver sinalização semafórica, os pedestres deverão:",
+        "opcoes" : [
+          {"a" : "atravessar em grupo nas estradas",
+            "b" : "obedecer à sinalização",
+            "c" : "transitar com rapidez",
+            "d" : "ceder a preferência aos veículos"
+          }]
+      }
+    ,{
+        "questao" : 16,
+        "pergunta" : "Quando necessária a utilização do extintor de incêndio, o jato deve ser direcionado:",
+        "opcoes" : [
+          {"a" : "para a base das chamas, em movimentos verticais",
+            "b" : "para o topo das chamas, em movimentos verticais",
+            "c" : "para a base das chamas, em movimentos horizontais",
+            "d" : "para o topo das chamas, em movimentos horizontais"
+          }]
+      }
+    ,{
+        "questao" : 17,
+        "pergunta" : "O condutor condenado por delito de trânsito só poderá voltar a dirigir após:",
+        "opcoes" : [
+          {"a" : "submeter-se a novos exames, com aprovação",
+            "b" : "cumprir pena de dois a quatro anos e submeter-se a curso de direção defensiva",
+            "c" : "submeter-se apenas ao exame prático de direção",
+            "d" : "Dsubmeter-se a curso de direção defensiva"
+          }]
+      }
+    ,{
+        "questao" : 18,
+        "pergunta" : "De acordo com o artigo 65 do Código de Trânsito Brasileiro, o uso do cinto de segurança é obrigatório:",
+        "opcoes" : [
+          {"a" : "somente para o motorista e para crianças menores de 10 anos",
+            "b" : "somente para o motorista",
+            "c" : "somente para o motorista e para o passageiro do banco da frente",
+            "d" : "para o motorista e todos os passageiros do banco da frente e de trás"
+          }]
+      }
+    ,{
+        "questao" : 19,
+        "pergunta" : "Ao efetuar curvas em rodovias, o condutor deve:",
+        "opcoes" : [
+          {"a" : "acelerar antes da curva, para aumentar o poder de tração nas rodas",
+            "b" : "reduzir a velocidade antes da curva, acelerando gradativamente",
+            "c" : "mudar de marcha, passando para uma maior, aumentando a tração nas rodas",
+            "d" : "frear durante a curva, para evitar a ação da força centrífuga"
+          }]
+      }
+    ,{
+        "questao" : 20,
+        "pergunta" : "São fatores físicos que determinam como o condutor age no trânsito:",
+        "opcoes" : [
+          {"a" : "fadiga, atenção, audição e tempo",
+            "b" : "chuva, fadiga, audição e veículo",
+            "c" : "atenção, tempo, audição e neblina",
+            "d" : "fadiga, atenção, audição e visão"
+          }]
+      }
+    ,{
+        "questao" : 21,
+        "pergunta" : "Caso ocorra um acidente com vítimas presas nas ferragens do veículo, o serviço de atendimento às emergências indicado é:",
+        "opcoes" : [
+          {"a" : "um Serviço de Resgate Privado caso o acidentado possua convênio médico",
+            "b" : "o Resgate do Corpo de Bombeiros",
+            "c" : "uma ambulância do hospital público mais próximo",
+            "d" : "a Polícia Rodoviária Federal e a Polícia Militar"
+          }]
+      }
+    ,{
+        "questao" : 22,
+        "pergunta" : "Para que o condutor diminua a marcha do veículo, o policial emite, com o apito, o seguinte sinal sonoro:",
+        "opcoes" : [
+          {"a" : "um silvo longo",
+            "b" : "um silvo longo e um breve",
+            "c" : "um silvo breve",
+            "d" : "dois silvos breves"
+          }]
+      }
+    ,{
+        "questao" : 23,
+        "pergunta" : "A ação correta diante de um acidente de trânsito em que a vítima pede água é:",
+        "opcoes" : [
+          {"a" : "mantê-la em jejum até que o médico faça a avaliação",
+            "b" : "oferecer leite ao invés de água",
+            "c" : "dar somente um copo de água",
+            "d" : "dar água em quantidade suficiente para acalmá-la"
+          }]
+      }
+    ,{
+        "questao" : 24,
+        "pergunta" : "Na ocorrência de um acidente, a primeira medida a ser tomada com relação à vítima é:",
+        "opcoes" : [
+          {"a" : "verificar a ocorrência de fraturas abertas e fechadas",
+            "b" : "verificar se sua respiração está normal",
+            "c" : "verificar a ocorrência de hemorragia interna e externa",
+            "d" : "verificar as condições da via para removê-la imediatamente para o hospital"
+          }]
+      }
+    ,{
+        "questao" : 25,
+        "pergunta" : "O condutor que for pego dirigindo sob a influência de álcool será punido com:",
+        "opcoes" : [
+          {"a" : "multa e suspensão do direito de dirigir",
+            "b" : "multa e advertência oral",
+            "c" : "multa somente",
+            "d" : "multa e remoção do veículo"
+          }]
+      }
+    ,{
+        "questao" : 26,
+        "pergunta" : "São sistemas fundamentais do veículo:",
+        "opcoes" : [
+          {"a" : "rodas, pneus, escapamento",
+            "b" : "motor, transmissão, direção, freios",
+            "c" : "amortecedor, cárter, elétrico",
+            "d" : "eixo-motriz, diferencial, painel, suspensão"
+          }]
+      }
+    ,{
+        "questao" : 27,
+        "pergunta" : "O condutor de veículo destinado à condução de escolares deverá satisfazer o seguinte requisito:",
+        "opcoes" : [
+          {"a" : "ser aprovado em curso especializado a nível de segundo grau",
+            "b" : "ter idade mínima de 18 anos",
+            "c" : "ser habilitado na categoria ´C´",
+            "d" : "não ter cometido nenhuma infração grave ou gravíssima"
+          }]
+      }
+    ,{
+        "questao" : 28,
+        "pergunta" : "Os procedimentos de reduzir a velocidade, acender faróis baixos, aumentar a distância de segurança e redobrar a atenção, devem ser tomadas pelo condutor:",
+        "opcoes" : [
+          {"a" : "nas ocasiões de ofuscamento da visão",
+            "b" : "nas ocasiões de chuva e má visibilidade",
+            "c" : "nas ocasiões de aquaplanagem",
+            "d" : "nas ocasiões de trânsito intenso"
+          }]
+      }
+    ,{
+        "questao" : 29,
+        "pergunta" : "Em relação à manutenção preventiva dos pneus, o condutor deve saber que:",
+        "opcoes" : [
+          {"a" : "pneus um pouco murchos gastam menos combustível",
+            "b" : "os pneus devem ser substituídos quando seus sulcos estiverem com menos de 1,6 milímetros de profundidade",
+            "c" : "os pneus devem ser substituídos quando seus sulcos estiverem com mais de 1,6 milímetros de profundidade",
+            "d" : "os pneus com calibragem abaixo da recomendação do fabricante duram mais"
+          }]
+      }
+    ,{
+        "questao" : 30,
+        "pergunta" : "Ao conduzir o veículo em uma rodovia, sob chuva intensa, recomenda-se ao condutor:",
+        "opcoes" : [
+          {"a" : "frear enquanto passa sobre as poças d´água",
+            "b" : "evitar a utilização dos freios sobre poças d´água",
+            "c" : "trafegar pelo acostamento, em velocidade reduzida",
+            "d" : "trafegar sobre a linha divisória da pista, para reduzir o efeito da aquaplanagem"
+          }]
+      }
+    ]
+  }]
