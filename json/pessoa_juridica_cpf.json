@@ -1,0 +1,56 @@
+{
+   "nomeEmpresarial":"CELUPA INDUSTRIAL CELULOSE E PAPEL GUAIBA LTDA",
+   "matrizFilial":"MATRIZ",
+   "naturezaJuridica":"2062 - SOCIEDADE EMPRESARIA LIMITADA",
+   "nomeFantasia":"CELUPA",
+   "situacaoCadastral":"ATIVA",
+   "dataSituacaoCadastral":"08/11/2003",
+   "logradouro":"AV COMENDADOR ISMAEL CHAVES BARCELLOS",
+   "cep":"92500000",
+   "municipio":"GUAIBA",
+   "numero":"150",
+   "complemento":"",
+   "bairro":"CENTRO",
+   "uf":"RS",
+   "retornoMensagem":null,
+   "dataAbertura":"15/08/1966",
+   "hora":"19:43:57",
+   "data":"04/11/2016",
+   "horaConsulta":"19:43:57",
+   "codigoRetorno":"00",
+   "endereco":null,
+   "telefones":[
+      "51-21011197",
+      "51-21011187"
+   ],
+   "motivoSituacaoCadastral":"",
+   "enteFederativo":"",
+   "correioEletronico":"david.garcia@melitta.com.br",
+   "capitalSocial":"26775190.00",
+   "situacaoEspecial":null,
+   "dataSituacaoEspecial":null,
+   "quadroSocietario":[
+      {
+         "nome":"MELITTA DO BRASIL INDUSTRIA E COMERCIO LIMITADA",
+         "qualificacao":"Sócio"
+      },
+      {
+         "nome":"MB BETEILIGUNGS GMBH",
+         "qualificacao":"Sócio Pessoa Jurídica Domiciliado no Exterior"
+      },
+      {
+         "nome":"IRVING NADIR VIEIRA",
+         "qualificacao":"Sócio-Administrador"
+      },
+      {
+         "nome":"BERNARDO WOLFSON",
+         "qualificacao":"Administrador"
+      }
+   ],
+   "mensagemQuadroSocietario":null,
+   "exception":null,
+   "cnaeprincipal":"1749-4/00 - Fabricação de produtos de pastas celulósicas, papel, cartolina, papel-cartão e papelão ondulado não especificados anteriormente",
+   "cnaesecundaria":[
+      "17.42-7-99 - Fabricação de produtos de papel para uso doméstico e higiênico-sanitário não especificados anteriormente*"
+   ]
+}
