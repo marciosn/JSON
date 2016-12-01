@@ -1,0 +1,92 @@
+{
+  "isSuccessful": true,
+  "session": {
+    "userId": "12103335491",
+    "attributes": {
+      "mensagem500": "Mensagem bolsa familia beneficio         cancelado informacoes do governo     federal mostram que sua familia ganha  mais do que o permitido para receber o     bolsa familia. Procure o setor do     cadastro unico e bolsa familia na sua   cidade para atualizar seu cadastro em    seu domicilio. Informe corretamente   renda e trabalho de todas as pessoas de   sua familia. Para mais informacoes      ligue para o mdsa - 0800 707 2003 -             cod. Batimentos - 91. ",
+      "mensagem200": "Seu beneficio referente ao mes de (10) foi sacado no dia (21) de (10). Aguarde a abertura do proximo calendario de pagam. ",
+      "usuario": {
+        "nis": "12103335491",
+        "telefone": null,
+        "nome": "12103335491"
+      },
+      "beneficio": {
+        "comunicado": "Benefício de 10/2016 sacado no dia 21 de Outubro. Para saber a data do próximo pagamento, consulte o Calendário.",
+        "cor": "#4c556c",
+        "status": "Benefício pago",
+        "data": "Outubro 2016",
+        "codigoStatus": "2"
+      },
+      "parcelas": [
+        {
+          "cor": "#4c556c",
+          "dadosBeneficiarioConverter": null,
+          "codigoSituacao": "2",
+          "situacaOriginal": "2",
+          "dataReferencia": "201610",
+          "codigoCanalOriginal": "LC",
+          "dataValidadeFim": "2017-01-30",
+          "motivoSituacao": "",
+          "canal": "LOTERICO CAIXA",
+          "descricao": "BOLSA FAMILIA",
+          "dataPagamento": "2016-10-21",
+          "comunicado": "SAQUE EM 21/10/2016",
+          "dataValidadeInicio": "2016-10-18",
+          "codigoMotivoSituacao": "",
+          "valor": "87.00",
+          "dataCalendarioPgto": "18/10/2016",
+          "situacao": "LIQUIDADO",
+          "codigoCanal": "LC",
+          "anoReferencia": "2016",
+          "mesReferencia": "OUT"
+        },
+        {
+          "cor": "#4c556c",
+          "dadosBeneficiarioConverter": null,
+          "codigoSituacao": "2",
+          "situacaOriginal": "2",
+          "dataReferencia": "201609",
+          "codigoCanalOriginal": "LC",
+          "dataValidadeFim": "2016-12-28",
+          "motivoSituacao": "",
+          "canal": "LOTERICO CAIXA",
+          "descricao": "BOLSA FAMILIA",
+          "dataPagamento": "2016-09-20",
+          "comunicado": "SAQUE EM 20/09/2016",
+          "dataValidadeInicio": "2016-09-19",
+          "codigoMotivoSituacao": "",
+          "valor": "87.00",
+          "dataCalendarioPgto": "26/09/2016",
+          "situacao": "LIQUIDADO",
+          "codigoCanal": "LC",
+          "anoReferencia": "2016",
+          "mesReferencia": "SET"
+        },
+        {
+          "cor": "#4c556c",
+          "dadosBeneficiarioConverter": null,
+          "codigoSituacao": "2",
+          "situacaOriginal": "2",
+          "dataReferencia": "201608",
+          "codigoCanalOriginal": "LC",
+          "dataValidadeFim": "2016-11-28",
+          "motivoSituacao": "",
+          "canal": "LOTERICO CAIXA",
+          "descricao": "BOLSA FAMILIA",
+          "dataPagamento": "2016-08-19",
+          "comunicado": "SAQUE EM 19/08/2016",
+          "dataValidadeInicio": "2016-08-18",
+          "codigoMotivoSituacao": "",
+          "valor": "87.00",
+          "dataCalendarioPgto": "19/08/2016",
+          "situacao": "LIQUIDADO",
+          "codigoCanal": "LC",
+          "anoReferencia": "2016",
+          "mesReferencia": "AGO"
+        }
+      ]
+    },
+    "displayName": "12103335491"
+  },
+  "authRequired": false
+}
